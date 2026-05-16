@@ -37,3 +37,16 @@
 .flip-card-back {
     transform: rotateY(180deg);
 }
+
+/* Add_Card Button */
+.button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
